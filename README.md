@@ -128,7 +128,7 @@ Link | Description
 • <https://github.com/projectdiscovery/cloudlist>
 • <https://github.com/BishopFox/cloudfox>
 
-## Penetration testing/learning 🖊
+## GOAT 🐐
 
 Link | Description
 ---- | ----
