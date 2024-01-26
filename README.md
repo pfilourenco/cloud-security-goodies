@@ -2,7 +2,7 @@
 
 Dive into this stash of cool stuff all about keeping your cloud stuff safe! From hacks to protect your AWS secrets to making Azure less grumpy, we've got your back. Whether you're a cloud wizard or just getting started, find tips, tools, and laughs to level up your cloud security game. Join the party, share your tricks, and let's keep the cloud vibes secure and chill!
 
-# Reading Materials
+# Reading Materials 📖
  
 https://cloudsecdocs.com/
 https://hackingthe.cloud/
@@ -10,7 +10,7 @@ https://cloud.hacktricks.xyz/welcome/readme
 https://book.hacktricks.xyz/welcome/readme
 https://cloudsecwiki.com/
  
-## AWS
+## AWS 🧡
 
 https://www.mindmeister.com/app/map/2677933171?t=NRlHFS0QwM
 https://summitroute.com/blog/2021/01/12/2021_aws_security_maturity_roadmap_2021/
@@ -20,24 +20,24 @@ https://maturitymodel.security.aws.dev/en/
 https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.html
 https://zoph.me/posts/2023-02-12-aws-security-survival-kit/
  
-## GCP
+## GCP 💛
 
 https://cloud.google.com/docs/security/overview/whitepaper
 https://cloud.google.com/architecture/security-foundations
 https://cloud.google.com/security/solutions/security-foundation
 [Google Cloud Incident Response Poster](https://bit.ly/4aFSLpv)
 
-## Azure
+## Azure 💙
 https://learn.microsoft.com/en-us/azure/governance/blueprints/samples/azure-security-benchmark-foundation/
 https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-security-architect-map/ba-p/714091
  
-# Newsletters
+# Newsletters 📢
  
 https://cloudseclist.com/
 https://tldrsec.com/
 https://securitypills.news/
 
-# Blogs
+# Blogs 🎞
 
 [AWS Security](https://aws.amazon.com/blogs/security/)
 [Azure Security]
@@ -48,10 +48,10 @@ GCP Security
 •	Marco Lancini
 •	https://rhinosecuritylabs.com/blog/
 
-# Events
+# Events ✈
 https://fwdcloudsec.org/
  
-# Podcasts
+# Podcasts 🎧
  
 •	Cloud Security Podcast by Google
 •	Cloud Security Podcast
@@ -61,11 +61,11 @@ https://fwdcloudsec.org/
 •	Security Now
 •	Expert Insights Podcast
  
-# Databases
+# Databases 🔥
  
 https://threats.wiz.io/
  
-# Tools
+# Tools 🛠
 
 •	https://github.com/vectra-ai-research/derf
 •	Status Red Team by DataDog
@@ -78,7 +78,7 @@ https://threats.wiz.io/
 •	https://github.com/projectdiscovery/cloudlist 
 •	https://github.com/BishopFox/cloudfox
  
-## Penetration testing/learning
+## Penetration testing/learning 🖊
 •	CloudFoxable - An intentionally vulnerable Amazon Web Services (AWS) environment.
 •	CloudGoat - A vulnerable by design Amazon Web Services (AWS) deployment tool.
 •	CloudSec Tidbits - Infrastructure as Code (IaC) laboratory reproducing interesting pentest findings by DoyenSec.
@@ -102,7 +102,7 @@ https://threats.wiz.io/
 •	TerraGoat: Bridgecrew's "Vulnerable by Design" Terraform repository.
 •	WrongSecrets: A vulnerable app which demonstrates how to not use secrets. With AWS/Azure/GCP support.
  
-# Awesome Lists
+# Awesome Lists 🚀
 
 https://github.com/4ndersonLin/awesome-cloud-security
 https://github.com/Funkmyster/awesome-cloud-security
@@ -127,7 +127,7 @@ https://github.com/kdeldycke/awesome-iam
 https://github.com/hysnsec/awesome-policy-as-code
 https://github.com/Metarget/awesome-cloud-native-security
  
-# Certifications
+# Certifications 📚
  
 ## Cloud Vendors
 
