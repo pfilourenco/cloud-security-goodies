@@ -35,7 +35,7 @@ Link | Description
 |[Cloud Hacktricks](https://cloud.hacktricks.xyz/welcome/readme)  | Wiki where you will find each hacking trick/technique/whatever.
 |[Cloud Sec Wiki](https://cloudsecwiki.com/)  | Cloud Security Wiki is an initiative to provide all Cloud security related resources to Security Researchers and developers at one place.
 |[Cloud Security Roadmap Template](https://roadmap.cloudsecdocs.com/) | Micro-website contains the full list of controls (95 as of today) that can be rolled out to establish a cloud security program aimed at protecting a cloud native, service provider agnostic, container-based, offering.
-|[cloudsecdocs](https://cloudsecdocs.com) | CloudSecDocs is a website collecting and sharing technical notes and knowledge on cloud-native technologies, security, technical leadership, and engineering culture.
+|[Cloud Sec Docs](https://cloudsecdocs.com) | CloudSecDocs is a website collecting and sharing technical notes and knowledge on cloud-native technologies, security, technical leadership, and engineering culture.
 |[Hacking The Cloud](https://hackingthe.cloud) | Hacking the cloud is an encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure.
 |[Infrastructure Review](https://roadmap.cloudsecdocs.com/infrastructure-review/) | Micro-website contains the list of questions that can be asked while reviewing the security architecture of a multi-cloud SaaS company and finding its most critical components.
 
@@ -131,7 +131,7 @@ Link | Description
 Link | Description
 ---- | ----
 |[Amazon GuardDuty Tester](https://github.com/awslabs/amazon-guardduty-tester) | This repository contains scripts and guidance that can be used as a proof-of-concept to generate Amazon GuardDuty findings related to real AWS resources.
-|[Atomic Red Team by Red Canary](https://github.com/redcanaryco/atomic-red-team) | Atomic Red Team™ is a library of tests mapped to the MITRE ATT&CK® framework. Security teams can use Atomic Red Team to quickly, portably, and reproducibly test their environments.
+|[Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) | Atomic Red Team™ is a library of tests mapped to the MITRE ATT&CK® framework. Security teams can use Atomic Red Team to quickly, portably, and reproducibly test their environments.
 |[AWSealion](https://github.com/0xd4y/AWSealion) | AWSealion is a CLI tool designed to work as a plugin for the AWS CLI to be used by pentesters and security enthusiasts in both professional and CTF settings.
 |[AzureHound](https://github.com/BloodHoundAD/AzureHound) | The BloodHound data collector for Microsoft Azure
 |[ccat](https://github.com/RhinoSecurityLabs/ccat) | Cloud Container Attack Tool.
@@ -144,7 +144,7 @@ Link | Description
 |[MicroBurst](https://github.com/NetSPI/MicroBurst) | MicroBurst includes functions and scripts that support Azure Services discovery, weak configuration auditing, and post exploitation actions such as credential dumping.
 |[pacu](https://github.com/RhinoSecurityLabs/pacu) | Pacu is an open-source AWS exploitation framework, designed for offensive security testing against cloud environments.
 |[ScoutSuite](https://github.com/nccgroup/ScoutSuite) | Scout Suite is an open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
-|[Status Red Team by DataDog](https://github.com/DataDog/stratus-red-team) | Stratus Red Team is "Atomic Red Team™" for the cloud, allowing to emulate offensive attack techniques in a granular and self-contained manner.
+|[Status Red Team](https://github.com/DataDog/stratus-red-team) | Stratus Red Team is "Atomic Red Team™" for the cloud, allowing to emulate offensive attack techniques in a granular and self-contained manner.
 |[The DeRF](https://github.com/vectra-ai-research/derf) | DeRF (Detection Replay Framework) is an "Attacks As A Service" framework, allowing the emulation of offensive techniques and generation of repeatable detection samples from a UI - without the need for End Users to install software, use the CLI or possess credentials in the target environment.
 
 ## GOATs 🐐
@@ -156,7 +156,7 @@ Link | Description
 |[CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) | A vulnerable by design Amazon Web Services (AWS) deployment tool.
 |[CloudSec Tidbits](https://github.com/doyensec/cloudsec-tidbits/) | Infrastructure as Code (IaC) laboratory reproducing interesting pentest findings by DoyenSec.
 |[CNAPPGoat](https://github.com/ermetic-research/cnappgoat) | CNAPPgoat is a multi-cloud, vulnerable-by-design environment deployment tool – specifically engineered to facilitate practice arenas for defenders and pentesters.
-|[CONVEX]((https://github.com/Azure/CONVEX)) | An open-source CTF platform that lets you spin up CTF events in your Microsoft Azure environment.
+|[CONVEX](https://github.com/Azure/CONVEX) | An open-source CTF platform that lets you spin up CTF events in your Microsoft Azure environment.
 |[Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca) | an intentionally vulnerable cloud application to teach privilege escalation on Amazon Web Services (AWS).
 |[EKS Cluster Games](https://eksclustergames.com/) | A hosted Wiz-sponsored AWS EKS based CTF.
 |[FLAWS](http://flaws.cloud/) | A CTF site based on common mistakes and gotchas when using Amazon Web Services (AWS).
@@ -206,7 +206,7 @@ Link |
 
 # Certifications 📚
 
-## Cloud Vendors
+## Cloud Service Providers
 
 Link |
 ---- |
