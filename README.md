@@ -1,4 +1,4 @@
-# Cloud Security Goodies 🛡️
+# 🛡️ Cloud Security Goodies 🛡️
 
 Dive into this stash of cool stuff all about keeping your cloud stuff safe! From hacks to protect your AWS secrets to making Azure less grumpy, we've got your back. Whether you're a cloud wizard or just getting started, find tips, tools, and laughs to level up your cloud security game. Join the party, share your tricks, and let's keep the cloud vibes secure and chill!
 
@@ -18,7 +18,7 @@ Dive into this stash of cool stuff all about keeping your cloud stuff safe! From
   - [GOATs 🐐](#goats-)
 - [Awesome Lists 🚀](#awesome-lists-)
 - [Certifications 📚](#certifications-)
-  - [Cloud Vendors](#cloud-vendors)
+  - [Cloud Service Providers](#cloud-service-providers)
   - [ISC2 - International Information System Security Certification Consortium](#isc2---international-information-system-security-certification-consortium)
   - [CSA - Cloud Security Alliance](#csa---cloud-security-alliance)
   - [Comptia](#comptia)
