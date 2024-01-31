@@ -31,13 +31,13 @@ Dive into this stash of cool stuff all about keeping your cloud stuff safe! From
 
 Link | Description
 ---- | ----
-|[Book Hacktricks](https://book.hacktricks.xyz/welcome/readme)  | Page where you will find each hacking trick/technique/whatever related to CI/CD & Cloud.
+|[Cloud Sec Docs](https://cloudsecdocs.com) | CloudSecDocs is a website collecting and sharing technical notes and knowledge on cloud-native technologies, security, technical leadership, and engineering culture.
+|[Cloud Security Roadmap Template](https://roadmap.cloudsecdocs.com/) | Micro-website contains the full list of controls (95 as of today) that can be rolled out to establish a cloud security program aimed at protecting a cloud native, service provider agnostic, container-based, offering.
+|[Infrastructure Review](https://roadmap.cloudsecdocs.com/infrastructure-review/) | Micro-website contains the list of questions that can be asked while reviewing the security architecture of a multi-cloud SaaS company and finding its most critical components.
 |[Cloud Hacktricks](https://cloud.hacktricks.xyz/welcome/readme)  | Wiki where you will find each hacking trick/technique/whatever.
 |[Cloud Sec Wiki](https://cloudsecwiki.com/)  | Cloud Security Wiki is an initiative to provide all Cloud security related resources to Security Researchers and developers at one place.
-|[Cloud Security Roadmap Template](https://roadmap.cloudsecdocs.com/) | Micro-website contains the full list of controls (95 as of today) that can be rolled out to establish a cloud security program aimed at protecting a cloud native, service provider agnostic, container-based, offering.
-|[Cloud Sec Docs](https://cloudsecdocs.com) | CloudSecDocs is a website collecting and sharing technical notes and knowledge on cloud-native technologies, security, technical leadership, and engineering culture.
 |[Hacking The Cloud](https://hackingthe.cloud) | Hacking the cloud is an encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure.
-|[Infrastructure Review](https://roadmap.cloudsecdocs.com/infrastructure-review/) | Micro-website contains the list of questions that can be asked while reviewing the security architecture of a multi-cloud SaaS company and finding its most critical components.
+|[Book Hacktricks](https://book.hacktricks.xyz/welcome/readme)  | Page where you will find each hacking trick/technique/whatever related to CI/CD & Cloud.
 
 ## AWS 🧡
 
@@ -66,6 +66,7 @@ Link | Description
 ---- | ----
 |[Azure Security Architect Mind Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-security-architect-map/ba-p/714091) | High-level view and quick insights about what is available and how to choose between the different services according to some functional needs.
 |[Azure Security Benchmark Foundation](https://learn.microsoft.com/en-us/azure/governance/blueprints/samples/azure-security-benchmark-foundation/) | Provides a set of baseline infrastructure patterns to help you build a secure and compliant Azure environment.
+|[Azure Attack Paths](https://cloudbrothers.info/en/azure-attack-paths/) | Show how different services and permissions can lead to a vulnerable environment.
 
 <a id="Newsletters"></a>
 
@@ -85,7 +86,7 @@ Link | Description
 ---- | ----
 |[AWS Security](https://aws.amazon.com/blogs/security/) | Official AWS Security blog.
 |[Azure Security](https://azure.microsoft.com/en-us/blog/category/security/) | Official Azure Security blog.
-|[Darkreading Cloud Secuirty](https://www.darkreading.com/cloud-security) | Official Darkreading Cloud Secuirty blog.
+|[Darkreading Cloud Security](https://www.darkreading.com/cloud-security) | Official Darkreading Cloud Secuirty blog.
 |[DATADOG](https://www.datadoghq.com/blog/tag/security/) | Official DATADOG blog.
 |[GCP Security](https://cloud.google.com/blog/products/identity-security) | Official GCP Security blog.
 |[Marco Lancini](https://blog.marcolancini.it/) | Marco Lancini blog.
@@ -108,13 +109,14 @@ Link | Description
 
 Link | Description
 ---- | ----
-|[Azure DevOps Podcast](http://azuredevopspodcast.clear-measure.com/) |
+|[WIZ - crying-out-cloud](https://www.wiz.io/crying-out-cloud) | Podcast & newsletter by cloud security pros, for cloud security pros.
 |[Cloud Security Podcast by Google](https://cloud.withgoogle.com/cloudsecurity/podcast/) | The Cloud Security Podcast from Google is a weekly news and interview show with insights from the cloud security community.
-|[Cloud Security Podcast](https://www.cloudsecuritypodcast.tv/) | A Top 10 Award Winning Media Company with the largest Cloud Security Leaders and Practitioners audience around the globe..
+|[Cloud Security Podcast](https://www.cloudsecuritypodcast.tv/) | A Top 10 Award Winning Media Company with the largest Cloud Security Leaders and Practitioners audience around the globe.
 |[Expert Insights Podcast](https://open.spotify.com/show/5BUE02ohzW7z7f0rbHNRG7) | The Experts Insights Podcast brings you insights and knowledge from cybersecurity and technology experts. Each episode, we conduct in-depth interviews with top cybersecurity leaders from leading vendors, practitioners and security teams.
+|[Azure DevOps Podcast](http://azuredevopspodcast.clear-measure.com/) |
 |[Security Now](https://twit.tv/shows/security-now) |
 |[The Hacker Mind](https://thehackermind.com/) | The Hacker Mind is an original podcast from the makers of Mayhem Security. It’s the stories from the individuals behind the hacks you’ve read about.
-|[WIZ - crying-out-cloud](https://www.wiz.io/crying-out-cloud) | Podcast & newsletter by cloud security pros, for cloud security pros.
+
 
 <a id="Databases"></a>
 
