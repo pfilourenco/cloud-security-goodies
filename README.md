@@ -25,110 +25,17 @@ Dive into this stash of cool stuff all about keeping your cloud stuff safe! From
   - [Kubernetes](#kubernetes)
 
  <!-- headings -->
-<a id="Reading-Resources"></a>
-
-# Reading Resources 📖
-
-Link | Description
----- | ----
-|[Cloud Sec Docs](https://cloudsecdocs.com) | CloudSecDocs is a website collecting and sharing technical notes and knowledge on cloud-native technologies, security, technical leadership, and engineering culture.
-|[Cloud Security Roadmap Template](https://roadmap.cloudsecdocs.com/) | Micro-website contains the full list of controls (95 as of today) that can be rolled out to establish a cloud security program aimed at protecting a cloud native, service provider agnostic, container-based, offering.
-|[Infrastructure Review](https://roadmap.cloudsecdocs.com/infrastructure-review/) | Micro-website contains the list of questions that can be asked while reviewing the security architecture of a multi-cloud SaaS company and finding its most critical components.
-|[Cloud Hacktricks](https://cloud.hacktricks.xyz/welcome/readme)  | Wiki where you will find each hacking trick/technique/whatever.
-|[Cloud Sec Wiki](https://cloudsecwiki.com/)  | Cloud Security Wiki is an initiative to provide all Cloud security related resources to Security Researchers and developers at one place.
-|[Hacking The Cloud](https://hackingthe.cloud) | Hacking the cloud is an encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure.
-|[Book Hacktricks](https://book.hacktricks.xyz/welcome/readme)  | Page where you will find each hacking trick/technique/whatever related to CI/CD & Cloud.
-
-## AWS 🧡
-
-Link | Description
----- | ----
-|[AWS Security Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.html) | This guide presents an overview of the fundamentals of responding to security incidents within a customer’s Amazon Web Services (AWS) Cloud environment.
-|[AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/) | This model will help you prioritize recommended actions to strengthen your security posture at every stage of your journey to the cloud.
-|[AWS Security Maturity Roadmap 2021](https://summitroute.com/blog/2021/01/12/2021_aws_security_maturity_roadmap_2021) | To give companies a series or actionable steps to improve the security of their AWS environments.
-|[AWS Security Mind Map](https://www.mindmeister.com/app/map/2677933171?t=NRlHFS0QwM) | AWS Security Mind Map.
-|[AWS Security Reference Architecture](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/architecture.html) | The AWS Security Reference Architecture.
-|[AWS Security Survival Kit](https://zoph.me/posts/2023-02-12-aws-security-survival-kit/) | Elevate your AWS Security with basic alerting.
-|[Effective IAM for AWS](https://www.effectiveiam.com/) | Effective IAM for Amazon Web Services is for Cloud engineers who design, develop, and review AWS IAM security policies in their daily work.
-
-## GCP 💛
-
-Link | Description
----- | ----
-|[GCP Enterprise Foundations Blueprint](https://cloud.google.com/architecture/security-foundations) | This document describes the best practices that let you deploy a foundational set of resources in Google Cloud.
-|[GCP Incident Response Poster](https://bit.ly/4aFSLpv) | GCP Forensics Poster.
-|[GCP Security Foundations Blueprint](https://cloud.google.com/security/solutions/security-foundation) | An enterprise solution that includes Google Cloud recommended products and security capabilities to help organizations achieve a strong security posture and protections for their Google Cloud environment.
-|[GCP Security Overview](https://cloud.google.com/docs/security/overview/whitepaper) | This document describes GCP approach to security, privacy, and compliance.
-
-## Azure 💙
-
-Link | Description
----- | ----
-|[Azure Security Architect Mind Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-security-architect-map/ba-p/714091) | High-level view and quick insights about what is available and how to choose between the different services according to some functional needs.
-|[Azure Security Benchmark Foundation](https://learn.microsoft.com/en-us/azure/governance/blueprints/samples/azure-security-benchmark-foundation/) | Provides a set of baseline infrastructure patterns to help you build a secure and compliant Azure environment.
-|[Azure Attack Paths](https://cloudbrothers.info/en/azure-attack-paths/) | Show how different services and permissions can lead to a vulnerable environment.
-
-<a id="Newsletters"></a>
-
-# Newsletters 📢
-
-Link | Description
----- | ----
-|[CloudSecList](https://cloudseclist.com/) | CloudSecList is the best way to stay on top of the cloud security landscape without being overwhelmed by all the noise.
-|[Security Pills](https://securitypills.news) | The Security Pills Newsletter is a hand curated list that brings you the news, latest research, tips, and vulnerabilities focused to the appsec and smart contract landscape.
-|[tl;dr sec](https://tldrsec.com/) | The best way to keep up with cybersecurity research.
-
-<a id="Blogs"></a>
-
-# Blogs 🎞
-
-Link | Description
----- | ----
-|[AWS Security](https://aws.amazon.com/blogs/security/) | Official AWS Security blog.
-|[Azure Security](https://azure.microsoft.com/en-us/blog/category/security/) | Official Azure Security blog.
-|[Darkreading Cloud Security](https://www.darkreading.com/cloud-security) | Official Darkreading Cloud Secuirty blog.
-|[DATADOG](https://www.datadoghq.com/blog/tag/security/) | Official DATADOG blog.
-|[GCP Security](https://cloud.google.com/blog/products/identity-security) | Official GCP Security blog.
-|[Marco Lancini](https://blog.marcolancini.it/) | Marco Lancini blog.
-|[ORCA](https://orca.security/resources/blog/) | Official ORCA blog.
-|[RHINO Secuirty Labs](https://rhinosecuritylabs.com/blog/) | Official RHINO Secuirty Labs blog.
-|[WIZ](https://www.wiz.io/blog) | Official WIZ blog.
-
-<a id="Conferences"></a>
-
-# Conferences ✈
-
-Link | Description
----- | ----
-|[CloudNativeSecurityCon](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/) | CloudNativeSecurityCon is a two-day event designed to foster collaboration, discussion and knowledge sharing of cloud native security projects and how to best use these to address security challenges and opportunities.
-|[fwd:cloudsec](https://fwdcloudsec.org/) | fwd:cloudsec is a non-profit conference on cloud security.
-
-<a id="Podcasts"></a>
-
-# Podcasts 🎧
-
-Link | Description
----- | ----
-|[WIZ - crying-out-cloud](https://www.wiz.io/crying-out-cloud) | Podcast & newsletter by cloud security pros, for cloud security pros.
-|[Cloud Security Podcast by Google](https://cloud.withgoogle.com/cloudsecurity/podcast/) | The Cloud Security Podcast from Google is a weekly news and interview show with insights from the cloud security community.
-|[Cloud Security Podcast](https://www.cloudsecuritypodcast.tv/) | A Top 10 Award Winning Media Company with the largest Cloud Security Leaders and Practitioners audience around the globe.
-|[Expert Insights Podcast](https://open.spotify.com/show/5BUE02ohzW7z7f0rbHNRG7) | The Experts Insights Podcast brings you insights and knowledge from cybersecurity and technology experts. Each episode, we conduct in-depth interviews with top cybersecurity leaders from leading vendors, practitioners and security teams.
-|[Azure DevOps Podcast](http://azuredevopspodcast.clear-measure.com/) |
-|[Security Now](https://twit.tv/shows/security-now) |
-|[The Hacker Mind](https://thehackermind.com/) | The Hacker Mind is an original podcast from the makers of Mayhem Security. It’s the stories from the individuals behind the hacks you’ve read about.
-
-
-<a id="Databases"></a>
-
-# Databases 🔥
-
-Link | Description
----- | ----
-|[Cloud Threat Landscape](https://threats.wiz.io/) | A comprehensive threat intelligence database of cloud security incidents, actors, tools and techniques. Powered by Wiz Research.
-
 <a id="Tools"></a>
 
 # Tools 🛠
+
+## New Placeholder Tools
+
+- **Tool A**: A description of Tool A.
+- **Tool B**: A description of Tool B.
+- **Tool C**: A description of Tool C.
+
+## Existing Tools
 
 Link | Description
 ---- | ----
