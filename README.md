@@ -1,23 +1,23 @@
-# 🛡️ Cloud Security Goodies 🛡️
+# 🔐 Cloud Security Goodies 🔐
 
 Dive into this stash of cool stuff all about keeping your cloud stuff safe! From hacks to protect your AWS secrets to making Azure less grumpy, we've got your back. Whether you're a cloud wizard or just getting started, find tips, tools, and laughs to level up your cloud security game. Join the party, share your tricks, and let's keep the cloud vibes secure and chill!
 
 **Table of contents:**
 
-- [Cloud Security Goodies 🛡️](#cloud-security-goodies-️)
-- [Reading Resources 📖](#reading-resources-)
-  - [AWS 🧡](#aws-)
-  - [GCP 💛](#gcp-)
-  - [Azure 💙](#azure-)
-- [Newsletters 📢](#newsletters-)
-- [Blogs 🎞](#blogs-)
-- [Conferences ✈](#conferences-)
-- [Podcasts 🎧](#podcasts-)
-- [Databases 🔥](#databases-)
-- [Tools 🛠](#tools-)
-  - [GOATs 🐐](#goats-)
-- [Awesome Lists 🚀](#awesome-lists-)
-- [Certifications 📚](#certifications-)
+- [Cloud Security Goodies 🔐](#cloud-security-goodies-🔐)
+- [Reading Resources 📖](#reading-resources-📖)
+  - [AWS ❤️](#aws-❤️)
+  - [GCP 💛](#gcp-💛)
+  - [Azure 💙](#azure-💙)
+- [Newsletters 📢](#newsletters-📢)
+- [Blogs 🎞](#blogs-🎞)
+- [Conferences ✈](#conferences-✈️)
+- [Podcasts 🎧](#podcasts-🎧)
+- [Databases 🔥](#databases-🔥)
+- [Tools 🔧](#tools-🔧)
+  - [GOATs 🐐](#goats-🐐)
+- [Awesome Lists 🚀](#awesome-lists-🚀)
+- [Certifications 📚](#certifications-📚)
   - [Cloud Service Providers](#cloud-service-providers)
   - [ISC2 - International Information System Security Certification Consortium](#isc2---international-information-system-security-certification-consortium)
   - [CSA - Cloud Security Alliance](#csa---cloud-security-alliance)
@@ -27,13 +27,19 @@ Dive into this stash of cool stuff all about keeping your cloud stuff safe! From
  <!-- headings -->
 <a id="Tools"></a>
 
-# Tools 🛠
+# Tools 🔧
 
-## New Placeholder Tools
+## Cloud Security Tools
 
-- **Tool A**: A description of Tool A.
-- **Tool B**: A description of Tool B.
-- **Tool C**: A description of Tool C.
+1. **AWS GuardDuty** - Native AWS threat detection.
+2. **Google Cloud Security Command Center (SCC)** - Detects misconfigurations and threats in GCP.
+3. **Microsoft Azure Security Center** - Security management for Azure and hybrid workloads.
+4. **Aqua Security** - Focused on container security.
+5. **Cloud Custodian** - Open-source governance tool for AWS, Azure, and GCP.
+6. **Prowler** - AWS security assessment based on best practices.
+7. **Trivy** - Scans vulnerabilities in container images and IaC files.
+8. **HashiCorp Vault** - Centralized secrets management for cloud infrastructure.
+9. **Prisma Cloud by Palo Alto Networks** - Multi-cloud CSPM with broad support for misconfiguration detection.
 
 ## Existing Tools
 
